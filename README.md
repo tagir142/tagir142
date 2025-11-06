@@ -25,7 +25,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48" alt="typescript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
   <img width="8" />
@@ -43,6 +43,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="48" alt="webstorm logo"  />
 </div>
+
 
 ###
 
