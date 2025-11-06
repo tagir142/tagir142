@@ -11,7 +11,7 @@
 
 <p align="left">
 👨‍💻 Frontend developer focused on creating intuitive, responsive user experiences.<br>
-⚙️ Skilled with React, TypeScript, MobX, Redux Toolkit, and MUI.<br>
+⚙️ Skilled with React, Next.JS, TypeScript, MobX, Redux Toolkit, and MUI.<br>
 🔌 Love building real-time apps with WebSocket and writing reliable tests with Jest.<br>
 🌱 Constantly exploring better ways to craft maintainable, elegant code.<br>
 </p>
