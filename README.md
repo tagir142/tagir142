@@ -1,5 +1,21 @@
-<h1 align="center">	•	Yo 👋 Frontend wizard crafting responsive magic with React & TS.
-</h1>
+<h1 align="center">• Hi there 👋 I'm Tagir — a frontend developer crafting smooth, reactive web apps with React & TypeScript.</h1>
+
+###
+
+<h3 align="center">I build fast, clean, and thoughtful interfaces — blending logic with design.</h3>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🧠 About Me</h2>
+
+<p align="left">
+👨‍💻 Frontend developer focused on creating intuitive, responsive user experiences.<br>
+⚙️ Skilled with React, TypeScript, MobX, Redux Toolkit, and MUI.<br>
+🔌 Love building real-time apps with WebSocket and writing reliable tests with Jest.<br>
+🌱 Constantly exploring better ways to craft maintainable, elegant code.<br>
+</p>
 
 ###
 
@@ -21,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="48" alt="styledcomponents logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" alt="redux logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="jest logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="48" alt="storybook logo"  />
   <img width="8" />
