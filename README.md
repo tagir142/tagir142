@@ -6,23 +6,23 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48" alt="javascript logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48" alt="typescript logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48" alt="react logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="48" alt="materialui logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="48" alt="styledcomponents logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" alt="redux logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="48" alt="storybook logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="48" alt="webstorm logo"  />
 </div>
 
@@ -42,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=tagir142&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
