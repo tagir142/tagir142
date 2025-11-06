@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">	•	Yo 👋 Frontend wizard crafting responsive magic with React & TS.
+</h1>
 
 ###
 
