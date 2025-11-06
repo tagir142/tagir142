@@ -2,11 +2,10 @@
 
 ###
 
-<h3 align="center">I build fast, clean, and thoughtful interfaces — blending logic with design.</h3>
+<h3 align="center">Mixing logic and aesthetics to make the web feel alive.</h3>
 
 ###
 
-<br clear="both">
 
 <h2 align="left">🧠 About Me</h2>
 
